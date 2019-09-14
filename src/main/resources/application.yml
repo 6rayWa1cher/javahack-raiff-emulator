@@ -2,6 +2,7 @@ spring:
   jmx:
     default-domain: com.a6raywa1cher.javahackraiffemulator
     unique-names: true
+server.port: 9000
 # ===============================
 # DB CONNECTION
 # ===============================
